@@ -1,1 +1,1 @@
-# dotnet-core-test-coverage-demo
+# dotnet-core-coverlet-msbuild-demo
