@@ -1,1 +1,1 @@
-# dotnet-core-coverlet-msbuild-demo
+# dotnet-core-coverlet-msbuild-demo [![Build status](https://ci.appveyor.com/api/projects/status/2x730h166pakd5t2/branch/master?svg=true)](https://ci.appveyor.com/project/Frederick-S/dotnet-core-coverlet-msbuild-demo/branch/master) [![codecov](https://codecov.io/gh/Frederick-S/dotnet-core-coverlet-msbuild-demo/branch/master/graph/badge.svg)](https://codecov.io/gh/Frederick-S/dotnet-core-coverlet-msbuild-demo)
