@@ -1,1 +1,2 @@
 # dotnet-core-coverlet-msbuild-demo [![Build status](https://ci.appveyor.com/api/projects/status/2x730h166pakd5t2/branch/master?svg=true)](https://ci.appveyor.com/project/Frederick-S/dotnet-core-coverlet-msbuild-demo/branch/master) [![codecov](https://codecov.io/gh/Frederick-S/dotnet-core-coverlet-msbuild-demo/branch/master/graph/badge.svg)](https://codecov.io/gh/Frederick-S/dotnet-core-coverlet-msbuild-demo)
+Demo code of [.NET Core 覆盖率测试](https://frederick-s.github.io/2020/04/18/dotnet-core-test-coverage-demo/).
